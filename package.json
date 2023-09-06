@@ -3,6 +3,19 @@
   "displayName": "AC Cozy",
   "description": "AC inspired Cozy light mode made by @morgainecodes",
   "version": "0.0.1",
+  "publisher": "morgainecodes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MorgaineLawless/ac-cozy"
+  },
+
+  "keywords": [
+    "animal crossing", 
+    "ac",
+    "animal crossing light",
+    "animal crossing theme",
+    "animal crossing light"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
